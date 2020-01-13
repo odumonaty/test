@@ -1,0 +1,178 @@
+body{
+    background:#F0E8D8;
+}
+h3{
+    font-family: satisfy;
+    text-align: center;
+}
+h1{
+    
+}
+p{
+    font-family:ubuntu;
+}
+
+.social-links{
+    display: inline-block;
+    margin-top: 50px;
+    color: #A86068;
+  
+
+}
+.navbar-nav{
+    color: #A86068 !important;
+    font-family: ta;
+
+
+}
+
+.bg-navbar{
+   background-color: white !important;
+}
+.navbar-text{
+    color: #A86068 !important;
+    font-family: ubuntu !important;
+    font-size: 20px;
+    font-stretch: extra-expanded;
+}
+.div-box-1{
+    background-color: #A86068;
+   
+    border-radius: 30px;
+    text-align: center;
+    color: white;
+    height: 190px;
+    margin-bottom: 23px;
+    height: 300px;
+    
+
+}
+
+
+
+.div-box-2{
+    background-color: #774617;
+  
+    border-radius: 30px;
+    text-align: center;
+    color: white;
+    height: 190px;
+    margin-bottom: 23px;
+    height: 300px;
+
+}
+
+.div-box-3{
+    background-color: #DCA968;
+    
+    border-radius: 30px;
+    vertical-align: middle;
+    color: white;
+    text-align: center;
+    height: 300px;
+   
+}
+.color-white{
+    background: white;
+    height: 500px;
+    box-shadow: 5px 10px 18px #888888;
+    border-radius: 10px;
+}
+
+section{
+    margin-top: 30px;
+}
+.padding-top{
+    padding-top: 30px;
+}
+
+footer{
+    margin-top: 30px;
+}
+.btn-send{
+    background-color: #A06860;
+    color: white;
+}
+.btn-more{
+    background-color: #A85848;
+    color: white;
+}
+
+.btn-menu:hover{
+    background-color: sienna;
+    color: red;
+}
+
+.padding-text{
+    text-align: justify;
+    padding: 30px;
+}
+h1{
+    font-size: 80px;
+}
+.mobile{
+    color: #DCA968;
+    
+}
+.img{
+    max-width: 100%; 
+    height: auto; 
+    margin-top: -50px;
+    text-align: center;
+    margin-left: 40px;
+}
+.h1-heading{
+    text-align: center; margin-top: 150px; color: #883830;
+
+}
+
+@media  (max-width:320px){
+    h1{
+        font-size: 30px;
+    }
+    .div-box-1, .div-box-2, .div-box-3{
+        width: 200px;
+        height: auto;
+        font-size: smaller;
+        margin-left: 50px;
+    }
+    .responsive-image{
+        max-width: 40%;
+        height: 30px;
+       
+        text-align: center;
+        margin-top: 10px;
+    }
+    .mobile{
+        text-align: center;
+    }
+    h1.content{
+        color: red;
+    }
+
+    .color-white{
+        background: white;
+        height: 900px;
+        box-shadow: 5px 10px 18px #888888;
+        border-radius: 10px;
+        width: 280px;
+        margin-left: 10px;
+        margin-top: 10px;
+    }
+
+    .social-links{
+      text-align: center;
+      margin-left: 100px;
+      
+    
+    }
+    .btn-more{
+        margin-bottom: 50px;
+    }
+.h1-heading{
+    margin: 15px auto;
+}
+
+
+}
+
